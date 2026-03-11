@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "coverPhoto": "https://covers.openlibrary.org/b/id/11153222-L.jpg",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "authorImage": "https://randomuser.me/api/portraits/men/32.jpg",
+    "postedDate": "2025-02-12",
+    "readingTime": "8 min read",
+    "hashtags": ["#selfdevelopment", "#habits", "#productivity"]
+  },
+  {
+    "id": "2",
+    "coverPhoto": "https://covers.openlibrary.org/b/id/15150797-L.jpg",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "authorImage": "https://randomuser.me/api/portraits/men/41.jpg",
+    "postedDate": "2025-02-18",
+    "readingTime": "10 min read",
+    "hashtags": ["#focus", "#productivity", "#success"]
+  },
+  {
+    "id": "3",
+    "coverPhoto": "https://covers.openlibrary.org/b/id/8231996-L.jpg",
+    "title": "The Art of Learning",
+    "author": "Josh Waitzkin",
+    "authorImage": "https://randomuser.me/api/portraits/men/56.jpg",
+    "postedDate": "2025-03-01",
+    "readingTime": "7 min read",
+    "hashtags": ["#learning", "#mindset", "#growth"]
+  },
+  {
+    "id": "4",
+    "coverPhoto": "https://covers.openlibrary.org/b/id/8097440-L.jpg",
+    "title": "Think Like a Programmer",
+    "author": "V. Anton Spraul",
+    "authorImage": "https://randomuser.me/api/portraits/men/22.jpg",
+    "postedDate": "2025-03-05",
+    "readingTime": "12 min read",
+    "hashtags": ["#programming", "#coding", "#problemsolving"]
+  },
+  {
+    "id": "5",
+    "coverPhoto": "https://covers.openlibrary.org/b/id/9259251-L.jpg",
+    "title": "Steal Like an Artist",
+    "author": "Austin Kleon",
+    "authorImage": "https://randomuser.me/api/portraits/men/65.jpg",
+    "postedDate": "2025-03-08",
+    "readingTime": "6 min read",
+    "hashtags": ["#creativity", "#ideas", "#innovation"]
+  }
+]

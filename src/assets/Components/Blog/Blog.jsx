@@ -1,8 +1,8 @@
 import React from 'react';
 import { IoBookmarkSharp } from "react-icons/io5";
 
-const Blog = ({blog}) => {
-    console.log(blog)
+const Blog = ({blog,handlerMark}) => {
+   
     return (
         <div className='py-5'>
            <div className="card bg-base-100 w-96 shadow-sm border-2 border-amber-50 p-4">
@@ -11,10 +11,10 @@ const Blog = ({blog}) => {
       src={blog.coverPhoto}
       alt="Shoes" />
   </figure>
-   <div className='author-details flex justify-center items-center gap-3 py-3'>
-      <p>{blog.author}</p>
+   <div className='author-details flex justify-around items-center gap-3 py-3'>
+      <p className='pl-6'>{blog.author}</p>
       <img className='w-16 rounded-full' src={blog.authorImage} alt="" />
-       <IoBookmarkSharp size={25}/>   
+       <button onClick={()=>handlerMark(blog)}><IoBookmarkSharp size={25}/> </button>  
    </div>
    
 
